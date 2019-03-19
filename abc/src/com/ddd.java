@@ -1,10 +1,12 @@
 ﻿package com;
 
 /**
- *<p>Title:ddd.java </p>  
- *<p>Description: </p>  
- * @author horse
- * @date 2018骞�5鏈�14鏃�  
+ * 
+ * @Title:
+ *@ClassName: ddd
+ * @Description: TODO
+ * @author: ma_qiang
+ * @date: 2019年3月19日 下午4:56:59
  */
  class ddd {
 public static void main(String[] args) {
